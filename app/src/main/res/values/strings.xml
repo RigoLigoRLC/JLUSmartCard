@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">JLU SmartCard</string>
+    <string name="cdes_app_banner">App Banner Logo</string>
+    <string name="about_author_signature">Coded by RigoLigo</string>
+    <string name="welcome_goodnight">Good night</string>
+    <string name="welcome_goodmorning">Good morning</string>
+    <string name="welcome_goodafternoon">Good afternoon</string>
+    <string name="welcome_comma">", "</string>
+    <string name="welcome_bang">!</string>
+    <string name="app_pref" translatable="false">cc.rigoligo.jlusmartcard.Preferences_File</string>
+    <string name="welcome_session_invalid">Your login has expired. You should log in again to continue.</string>
+    <string name="welcome_not_logged_in">You have not logged into JLU SmartCard. Please login to continue.</string>
+    <string name="welcome_login_btn">LOGIN</string>
+    <string name="login_card_number">Card Number</string>
+    <string name="login_password">Password</string>
+    <string name="login_verification_code">Verification Code</string>
+    <string name="cdes_login_show_password">Show password</string>
+    <string name="cdes_login_hide_password">Hide password</string>
+    <string name="login_login_smartcard">Login to SmartCard</string>
+    <string name="cdes_login_verification_code_img">Verification code image</string>
+    <string name="cdes_reload_verification_code_img">Reload verification code image</string>
+    <string name="login_login">LOGIN</string>
+    <string name="cdes_login_back">Go back</string>
+    <string name="login_get_rsa_pubkey_failed">Failed to get RSA Public Key!</string>
+    <string name="login_login_failed">Failed to login!</string>
+    <string name="login_login_successful">Successfully logged in!</string>
+    <string name="welcome_balance">Balance</string>
+    <string name="welcome_db_balance">Card balance</string>
+    <string name="welcome_unsettled_balance">Unsettled</string>
+    <string name="welcome_pay_with_qr_code">Payment Code</string>
+    <string name="welcome_recharge">Recharge</string>
+    <string name="welcome_transactions">Transactions</string>
+    <string name="cdes_welcome_close_qrcode">Close QR Code</string>
+    <string name="cdes_welcome_qrcode_failed_to_load">QR Code failed to load</string>
+    <string name="cdes_welcome_qrcode">QR Code Image</string>
+    <string name="welcome_refresh_qrcode">Refresh QR Code</string>
+</resources>

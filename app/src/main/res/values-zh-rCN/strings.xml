@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JLU智能校园卡</string>
+    <string name="cdes_app_banner">应用横幅Logo</string>
+    <string name="about_author_signature">Coded by RigoLigo</string>
+    <string name="welcome_goodnight">晚上好</string>
+    <string name="welcome_goodmorning">早上好</string>
+    <string name="welcome_goodafternoon">中午好</string>
+    <string name="welcome_comma">，</string>
+    <string name="welcome_bang">！</string>
+    <string name="welcome_session_invalid">您的登录状态已失效。请重新登录以继续。</string>
+    <string name="welcome_not_logged_in">您还没有登录吉大智能校园卡。请登录以继续。</string>
+    <string name="welcome_login_btn">登录</string>
+    <string name="login_card_number">校园卡号</string>
+    <string name="login_password">密码</string>
+    <string name="login_verification_code">验证码</string>
+    <string name="cdes_login_show_password">隐藏密码</string>
+    <string name="cdes_login_hide_password">显示密码</string>
+    <string name="login_login_smartcard">登录校园卡</string>
+    <string name="cdes_login_verification_code_img">验证码图片</string>
+    <string name="cdes_reload_verification_code_img">重新加载验证码</string>
+    <string name="login_login">登录</string>
+    <string name="cdes_login_back">返回</string>
+    <string name="login_get_rsa_pubkey_failed">获取RSA公钥失败！</string>
+    <string name="login_login_failed">登录失败！</string>
+    <string name="login_login_successful">登录成功！</string>
+    <string name="welcome_balance">余额</string>
+    <string name="welcome_db_balance">卡面余额</string>
+    <string name="welcome_unsettled_balance">过渡余额</string>
+    <string name="welcome_pay_with_qr_code">二维码付款</string>
+    <string name="welcome_recharge">充值</string>
+    <string name="welcome_transactions">交易流水</string>
+    <string name="cdes_welcome_close_qrcode">关闭二维码</string>
+    <string name="cdes_welcome_qrcode_failed_to_load">加载二维码失败</string>
+    <string name="cdes_welcome_qrcode">二维码图片</string>
+    <string name="welcome_refresh_qrcode">刷新二维码</string>
+</resources>
